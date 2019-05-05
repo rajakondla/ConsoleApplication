@@ -1,0 +1,22 @@
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\SampleWindowsForm.exe.config
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\SampleWindowsForm.exe
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\SampleWindowsForm.pdb
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.Properties.Resources.resources
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.csproj.GenerateResource.Cache
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.exe
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.pdb
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\ConsoleApplication1.exe
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\ConsoleApplication1.pdb
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\ConsoleApplication1.exe.config
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.csproj.CoreCompileInputs.cache
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.csprojAssemblyReference.cache
+F:\CopyDVD\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.csproj.CopyComplete
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.csprojAssemblyReference.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.Properties.Resources.resources
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.csproj.GenerateResource.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.csproj.CoreCompileInputs.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\SampleWindowsForm.exe.config
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\SampleWindowsForm.exe
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\bin\Debug\SampleWindowsForm.pdb
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.exe
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\SampleWindowsForm\obj\Debug\SampleWindowsForm.pdb

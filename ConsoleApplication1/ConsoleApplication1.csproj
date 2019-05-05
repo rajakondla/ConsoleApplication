@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DD143A99-0E7A-413E-8A37-94CF7489436A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConsoleApplication1</RootNamespace>
+    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>7.3</LangVersion>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ConsoleApplication1.ClientSerial</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ServiceStack, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.Complete.1.0.0\lib\net35\ServiceStack.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Common, Version=1.0.4333.5581, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.Complete.1.0.0\lib\net35\ServiceStack.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.Complete.1.0.0\lib\net35\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.OrmLite, Version=3.0.3.5599, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.Complete.1.0.0\lib\net35\ServiceStack.OrmLite.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.OrmLite.SqlServer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.Complete.1.0.0\lib\net35\ServiceStack.OrmLite.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Redis, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.Complete.1.0.0\lib\net35\ServiceStack.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.ServiceInterface, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.Complete.1.0.0\lib\net35\ServiceStack.ServiceInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text, Version=3.9.71.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Redis.Complete.1.0.0\lib\net35\ServiceStack.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.ServiceModel.Channels" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractClassDemo.cs" />
+    <Compile Include="AbstractIndexer.cs" />
+    <Compile Include="ADOClass.cs" />
+    <Compile Include="AnonymousMethod.cs" />
+    <Compile Include="AnonymousTypeDemo.cs" />
+    <Compile Include="ArrayList.cs" />
+    <Compile Include="ArrayList2Demo.cs" />
+    <Compile Include="AssemblyInformationDemo.cs" />
+    <Compile Include="AutoSetManualSet.cs" />
+    <Compile Include="BinarySerializationArrayListItems.cs" />
+    <Compile Include="CallingStaticFunction.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
+    <Compile Include="ClassFactoryMethod.cs" />
+    <Compile Include="ClassIncrement.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="CollectionTest.cs" />
+    <Compile Include="CompoundPattern\IQuackObservable.cs" />
+    <Compile Include="ConditionalAttributeDemo.cs" />
+    <Compile Include="ClassDemonstration.cs" />
+    <Compile Include="ConstructorDefault.cs" />
+    <Compile Include="CustomAttributeDemo.cs" />
+    <Compile Include="Decorator.cs" />
+    <Compile Include="DecoratorPattern.cs" />
+    <Compile Include="DelegateProcessBook.cs" />
+    <Compile Include="DelegateSmsEmail.cs" />
+    <Compile Include="DelegateStaticDynamic.cs" />
+    <Compile Include="DemoDelegates.cs" />
+    <Compile Include="DemoInterface.cs" />
+    <Compile Include="DemoInterfaceLatest.cs" />
+    <Compile Include="DemoMatrix.cs" />
+    <Compile Include="DemoMethods.cs" />
+    <Compile Include="DemoOperators.cs" />
+    <Compile Include="DemoProperties.cs" />
+    <Compile Include="DemoThread.cs" />
+    <Compile Include="DictionaryDemoMethods.cs" />
+    <Compile Include="DictionaryGenericDEmo.cs" />
+    <Compile Include="DictionaryGenericDemo2.cs" />
+    <Compile Include="DictionaryGenericLINQDemo.cs" />
+    <Compile Include="Display.cs" />
+    <Compile Include="Disposable.cs" />
+    <Compile Include="DynamicDemo.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="EnumDemo.cs" />
+    <Compile Include="EnumDemo1.cs" />
+    <Compile Include="clsCopyArray.cs" />
+    <Compile Include="DelegateCalculation.cs" />
+    <Compile Include="EnumStringToInt.cs" />
+    <Compile Include="eventKeyword.cs" />
+    <Compile Include="EventLogs.cs" />
+    <Compile Include="ExampleStatic.cs" />
+    <Compile Include="ExtensionMethodsDemo.cs" />
+    <Compile Include="factorial.cs" />
+    <Compile Include="FactoryDemo.cs" />
+    <Compile Include="FactoryMethodSwift.cs" />
+    <Compile Include="FileSystemMgt.cs" />
+    <Compile Include="FindDemo.cs" />
+    <Compile Include="For_Ex.cs" />
+    <Compile Include="FuelGradeSort.cs" />
+    <Compile Include="FuncDelegate.cs" />
+    <Compile Include="GenericAddressExample.cs" />
+    <Compile Include="GenericCoContraVariance.cs" />
+    <Compile Include="GenericConstraintDemo.cs" />
+    <Compile Include="GenericLatestExample.cs" />
+    <Compile Include="GenericsDemo.cs" />
+    <Compile Include="GenericSecondDemo.cs" />
+    <Compile Include="GenericVariantNested.cs" />
+    <Compile Include="HashtableDemo.cs" />
+    <Compile Include="HashTableDemo2.cs" />
+    <Compile Include="HashTableDemo3.cs" />
+    <Compile Include="HttpLightWeightSimulator.cs" />
+    <Compile Include="HttpSimulator.cs" />
+    <Compile Include="HttpSimulatorTests.cs" />
+    <Compile Include="IA.cs" />
+    <Compile Include="IComparable_Comparer.cs" />
+    <Compile Include="IEnumerableDemo1.cs" />
+    <Compile Include="IlistGenericDemo.cs" />
+    <Compile Include="IndexerDemo.cs" />
+    <Compile Include="InheritanceClass.cs" />
+    <Compile Include="InheritanceConstructor.cs" />
+    <Compile Include="InterfaceClass.cs" />
+    <Compile Include="InterfaceClassLink.cs" />
+    <Compile Include="ISeries.cs" />
+    <Compile Include="IEnumerableDemo.cs" />
+    <Compile Include="IState.cs" />
+    <Compile Include="ITestInterface.cs" />
+    <Compile Include="LamdaExpressionExpcs.cs" />
+    <Compile Include="LinkedListCollection.cs" />
+    <Compile Include="LinkedListDemo.cs" />
+    <Compile Include="LinqExpCodes.cs" />
+    <Compile Include="ListGenericDemo.cs" />
+    <Compile Include="Matrix.cs" />
+    <Compile Include="MatrixMultiplication.cs" />
+    <Compile Include="MenuComponent.cs" />
+    <Compile Include="MutableImmutable.cs" />
+    <Compile Include="NoOfDirectories.cs" />
+    <Compile Include="DelegateOutOfClass.cs" />
+    <Compile Include="ObsoleteDemo.cs" />
+    <Compile Include="OptionalParameter.cs" />
+    <Compile Include="OutPermeterDemo.cs" />
+    <Compile Include="PassByValueAndRef.cs" />
+    <Compile Include="PizzaFactory.cs" />
+    <Compile Include="PredicateExample.cs" />
+    <Compile Include="PrePost.cs" />
+    <Compile Include="PreProcessor.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="PropertiesDEmo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProxyPattern.cs" />
+    <Compile Include="QueueDemo.cs" />
+    <Compile Include="QueueDemo2.cs" />
+    <Compile Include="RedisClass.cs" />
+    <Compile Include="ReferenceCheck.cs" />
+    <Compile Include="ReflectionDemo.cs" />
+    <Compile Include="ReflectionHelper.cs" />
+    <Compile Include="RestFulWebService.cs" />
+    <Compile Include="ShallowCopyDeepCopy.cs" />
+    <Compile Include="SimpleInheritancecs.cs" />
+    <Compile Include="SimpleList.cs" />
+    <Compile Include="SimulatedHttpRequest.cs" />
+    <Compile Include="SortedListDemo.cs" />
+    <Compile Include="StackDemo.cs" />
+    <Compile Include="StaticConstructor.cs" />
+    <Compile Include="StringStringBuilder.cs" />
+    <Compile Include="structures.cs" />
+    <Compile Include="SwapNumber.cs" />
+    <Compile Include="TestGenericEmployee.cs" />
+    <Compile Include="TestOnline.cs" />
+    <Compile Include="TestReference.cs" />
+    <Compile Include="Threading.cs" />
+    <Compile Include="TupleDemo.cs" />
+    <Compile Include="UnSafe_or_Unmanaged.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="XmlSerializationArrayList.cs" />
+    <Compile Include="ShowFileDetails.cs" />
+    <Compile Include="StopWatch.cs" />
+    <Compile Include="TestMain.cs" />
+    <Compile Include="YieldKeyword.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BookStore\BookStore.csproj">
+      <Project>{BC0D566B-5221-4CF4-A185-63F4C3EC0490}</Project>
+      <Name>BookStore</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="CrystalReport1.rpt" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="CrystalAnalysisCommLayerLib">
+      <Guid>{334A5A07-25CB-4005-9B1F-F530D0E634BE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsCommonObjectModelLib">
+      <Guid>{85C3BB41-5C11-4920-ABC2-8C04F629F2DE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsControllersLib">
+      <Guid>{F25B1025-0037-4389-B459-FA523E235852}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsCubeDefModelLib">
+      <Guid>{613260B4-2F37-4D23-9590-3251A071AB37}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsDataDefModelLib">
+      <Guid>{DB48EB11-860C-4408-A0CA-1316C7F7AECA}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsDTSAgentLib">
+      <Guid>{F20912C5-05FB-4F8F-A595-96E2A68C9548}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsLocalConnectionMgrLib">
+      <Guid>{A0E8E78C-F290-480C-8E18-F242E33DC3E7}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsObjectFactoryLib">
+      <Guid>{9EB184BB-FF43-4CBA-80EF-E3CFB8281998}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsReportDefModelLib">
+      <Guid>{399259B7-1BF7-4B2C-925E-728E0895CE14}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

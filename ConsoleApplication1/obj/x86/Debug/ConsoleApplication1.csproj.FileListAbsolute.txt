@@ -1,0 +1,59 @@
+d:\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+d:\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\BookStore.dll
+D:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\BookStore.pdb
+D:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\BookStore.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\BookStore.pdb
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalReportsDTSAgentLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CopyComplete
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Common.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Interfaces.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.OrmLite.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Redis.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.ServiceInterface.dll
+F:\CopyDVD\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Text.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\BookStore.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Common.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Interfaces.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.OrmLite.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Redis.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.ServiceInterface.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Text.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\BookStore.pdb
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CopyComplete
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

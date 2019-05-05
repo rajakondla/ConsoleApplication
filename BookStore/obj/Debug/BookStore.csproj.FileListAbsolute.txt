@@ -1,0 +1,17 @@
+D:\CopyDVD\Console1\ConsoleApplication1\BookStore\bin\Debug\BookStore.dll
+D:\CopyDVD\Console1\ConsoleApplication1\BookStore\bin\Debug\BookStore.pdb
+D:\CopyDVD\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.dll
+D:\CopyDVD\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.pdb
+D:\CopyDVD\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+F:\CopyDVD\Console1\ConsoleApplication1\BookStore\bin\Debug\BookStore.dll
+F:\CopyDVD\Console1\ConsoleApplication1\BookStore\bin\Debug\BookStore.pdb
+F:\CopyDVD\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.dll
+F:\CopyDVD\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.pdb
+F:\CopyDVD\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+F:\CopyDVD\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\BookStore\bin\Debug\BookStore.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\BookStore\bin\Debug\BookStore.pdb
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.dll
+E:\MVC4 Application with NHibernate\Console1\ConsoleApplication1\BookStore\obj\Debug\BookStore.pdb
